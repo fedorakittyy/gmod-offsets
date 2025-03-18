@@ -1,0 +1,27 @@
+{
+    "dwEntityList": "0x94c188",
+    "dwLocalPlayer": "0x92A440",
+    "dwViewMatrix": "0x736988",
+    "MaxOnlinePlayers": "0x5A85D8",
+ 
+    "screengrab": "0x5a8320",
+    "dwForceAttack": "0xa186b0",
+    "dwForceJump": "0xa19990",
+    "m_angRotation": "0x434",
+    "mat_fullbright": "0x20E60B8",
+ 
+    "m_iIDEntIndex": "0x2CB8",
+ 
+    "gversion": "Silent 2025"
+}
+
+
+
+
+
+MatFullbright = 
+Crosshair = 0x36E8
+BoneMatrix = 0x1A98
+m_hObserverTarget = 
+Playername = 0x372C
+SteamID = 0x37B0
